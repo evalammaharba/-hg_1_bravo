@@ -1,1 +1,11 @@
-# hg_1_bravo REQUEST_TEMPLATE.md
+- [ ] Alfa
+- [x ] Bravo 
+- [ ] Charlie
+- [ ] Delta
+
+
+# Seleccione el tipo de actividad
+- [ x] Feature
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance 
